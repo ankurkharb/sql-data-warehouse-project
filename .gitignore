@@ -1,0 +1,38 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln.docstates
+*.swp
+*.swo
+*~
+
+# SQL Server temp and backup files
+*.bak
+*.trn
+*.log
+*.mdf
+*.ldf
+*.ndf
+
+# Temporary files
+*.tmp
+*.temp
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+
+# Misc
+*.zip
+*.tar.gz

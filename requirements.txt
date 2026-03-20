@@ -1,0 +1,9 @@
+# SQL Data Warehouse Project - Dependencies
+#
+# This is a SQL-only project. The primary tools required are:
+#
+# 1. SQL Server Express (free): https://www.microsoft.com/en-us/sql-server/sql-server-downloads
+# 2. SQL Server Management Studio (SSMS): https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms
+# 3. Git: https://git-scm.com/
+#
+# No Python packages are required for this project.
